@@ -1,0 +1,29 @@
+<DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>css methods</title> 
+		<link rel="stylesheet" href="h.css">
+	</head>
+		<style>
+			img{
+				border:15px solid yellow;
+				width:200px;
+				height:250px;
+			   }
+		</style>
+	<body>
+		<h1 style="font-size:12pt;font-style:italic;font-family:verdana";> aa kurchi madatha petti kodithe </h1>
+		<h1 style="font-size:12pt;font-style:italic;font-family:verdana";> amma bangaru talli </h1>
+		<img src="C:\Users\vignan\Documents\FEAD 4C69\images\madathapetti.jpg"alt"madathapetti"/>
+		<img src="C:\Users\vignan\Documents\FEAD 4C69\images\bangaru_talli.jpg"alt"bangaru_talli"/></br></br>
+		<from>
+			<input type="button" value="Kurchi Tatha">
+			<input type="button" value="Bangaru Talli">
+		</from>
+</html>
+	
+
+input[ type="button"]:hover
+{
+background-color:red;
+}
